@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    border: 20px solid #1A597B ;
+    background-color: #A9DAF5;
+    padding: 100px;
+}
+.div{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+
+}
+.div button{
+    margin-left: 20px;
+    padding: 20px;
+    border-radius: 35px;
+    width: 150px;
+    border: 5px solid #F2933F ;
+    background-color: #F1CF9B;
+    font-style: italic;
+    font-size: larger;
+
+}
+
+.div input,select{
+    list-style: none;
+    border-radius: 35px;
+    border: 5px solid #0D7CB8;
+    background-color: #A9DAF5;
+    padding: 20px;
+    color: rgb(9, 9, 9);
+    font-style: italic;
+    font-size: larger;
+   
+}
+.texti {
+    text-align: center;
+    color: #1A597B;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
